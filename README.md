@@ -34,9 +34,9 @@ I can do online lessons if prefferred after the first assessment. Students that 
 # Pricing
 Currently I am offering 2 options. More options may become available. Realistically the first option will be sufficient for most as a lot of coding is about self study and then getting feedback on the work completed thus far. I offer 1 hour sessions in the event that extra time is needed to hammer down ideas from previous weeks. There is not a set timeline of course and whatever pace the student works at is fine.
 
-Payable via cash, Venmo, or Paypal.
-* $10 gets 30 minutes per week. Saturday or Sunday.
-* $15 gets 1 hour per week. Saturday or Sunday.
+Payable via cash, Venmo, or Paypal. We can flex between Friday Afternoons, Saturday or Sunday. 
+* $10 gets 30 minutes per week.
+* $15 gets 1 hour per week.
 
 # Note
 To become effective at coding, it does require the student to practice. No one is good at coding. It is a skill that requires persistence and discipline. The lessons are designed to provide some modicum of structure to said pratice, however if the only coding done for the week is done during the lesson itself, it will be hard to see reasonable progress.
